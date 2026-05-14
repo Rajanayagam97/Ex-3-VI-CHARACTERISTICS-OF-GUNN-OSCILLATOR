@@ -45,10 +45,13 @@ The difference of both dB reading of VSWR meter gives the modulation depth of PI
 Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.
 
 ## B.Observation: ( Include your own Table relevant to the Experiment) (Include Tabulation Part)
+<img width="1500" height="1323" alt="WhatsApp Image 2026-05-14 at 11 10 55 PM" src="https://github.com/user-attachments/assets/417bd6ad-879a-4ddc-a7c1-8432c1ecf3f3" />
 
 ## C.Analysis of Results: (Write your own)
 
 (Include sample calculations/Display/plot/typical graph)
+<img width="1264" height="1600" alt="WhatsApp Image 2026-05-14 at 11 10 55 PM (1)" src="https://github.com/user-attachments/assets/14fa8290-72b3-45a0-b669-c414134884e1" />
+
 
 ## D.Conclusions: (Write your Own)
 
